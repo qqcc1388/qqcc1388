@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=qqcc1388)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenyang&layout=compact)
 
 <p float="left">
 5
