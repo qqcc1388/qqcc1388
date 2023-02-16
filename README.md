@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is tiny，a rookie iOS developer。Now that you're here, why don't you pay attention！
+This is tiny, a rookie iOS developer. Now that you're here, why don't you pay attention！
 
 ## &#x270d; Blog & Writing
 
